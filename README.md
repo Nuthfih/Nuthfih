@@ -75,10 +75,6 @@
 <div align="center">
 
 <!-- STATS CARDS -->
-<a href="https://github.com/Nuthfih">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nuthfih&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=C44AFF&icon_color=FF6B9D&text_color=c9d1d9&border_color=C44AFF&border_radius=15&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuthfih&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=C44AFF&text_color=c9d1d9&border_color=C44AFF&border_radius=15&hide_border=false&langs_count=8"/>
-</a>
 
 <br/><br/>
 
@@ -96,16 +92,6 @@
 
 </div>
 
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuthfih/Nuthfih/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuthfih/Nuthfih/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Nuthfih/Nuthfih/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
 
 <!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
