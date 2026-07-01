@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44AFF,100:6C63FF&height=220&section=header&text=꧁%20Nuthfih%20꧂&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✦%20Developer%20|%20Anime%20Enthusiast%20|%20Code%20Artisan%20✦&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44AFF,100:6C63FF&height=220&section=header&text=%20Nuthfih%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✦%20Developer%20|%20Anime%20Enthusiast%20|%20Vibe%20Coder%20✦&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- ANIME TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 
 ```yaml
 🎌 Name: Nuthfih
-🏠 Location: Indonesia 🇮🇩
+🏠 Location: Indonesia
 🎓 Status: Student & Developer
 🌸 Interests: Coding, Anime, Open Source
 🎯 Goal: Building cool stuff & contributing to the community
