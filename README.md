@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44AFF,100:6C63FF&height=220&section=header&text=%20Nuthfih%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✦%20Developer%20|%20Anime%20Enthusiast%20|%20Vibe%20Coder%20✦&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44AFF,100:6C63FF&height=220&section=header&text=%20Nuthfih%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✦%20Developer%20|%20Junior%20Programmer%20|%20Vibe%20Coder%20✦&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- ANIME TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -14,7 +14,6 @@
 <a href="https://github.com/Nuthfih?tab=followers">
   <img src="https://img.shields.io/github/followers/Nuthfih?label=Followers&style=for-the-badge&color=FF6B9D&labelColor=1a1b27" alt="Followers"/>
 </a>
-<img src="https://img.shields.io/badge/Anime-Lover-FF6B9D?style=for-the-badge&logo=crunchyroll&logoColor=white&labelColor=1a1b27"/>
 
 </div>
 
@@ -29,7 +28,6 @@
 🎓 Status: Student & Developer
 🌸 Interests: Coding, Anime, Open Source
 🎯 Goal: Building cool stuff & contributing to the community
-⚡ Fun Fact: I debug with the power of anime protagonists 🔥
 
 「 現在、コードの世界を探検中 」
   ~ Currently exploring the world of code ~
@@ -98,17 +96,6 @@
 
 </div>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nuthfih&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%"/>
-</div>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -126,11 +113,6 @@
 ## 🎵 Vibes & Connect
 
 <div align="center">
-
-<!-- SPOTIFY -->
-<a href="#">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=C44AFF&bar_color_cover=true" alt="Spotify" width="400"/>
-</a>
 
 <br/><br/>
 
@@ -158,8 +140,8 @@
 <!-- ANIME QUOTE -->
 ### 「 名言 」 Quotes
 
-> *"I will win. I will win and end this world."*
-> — **Kirito** 🏴‍☠️
+> *"The factory must grow"*
+> — **Endministrator** 🏴‍☠️
 
 <br/>
 
